@@ -10,5 +10,5 @@ project
 └───Data
 │   │   Train.csv
 │   │   Test.csv
-│   │   VariableDescription.xlsx
+│   │   VariableDescription.csv
 ```
